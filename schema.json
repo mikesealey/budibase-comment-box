@@ -6,6 +6,10 @@
     "friendlyName": "Comment Box",
     "description": "A comment box component for easily adding comments to records",
     "icon": "Comment",
+    "size": {
+      "width": 440,
+      "height": 300
+    },
     "settings": [
       {
         "type": "table",

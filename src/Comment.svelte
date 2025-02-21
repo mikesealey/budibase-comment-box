@@ -81,5 +81,6 @@
   }
   .text {
     word-wrap: anywhere;
+    white-space: pre;
   }
 </style>
